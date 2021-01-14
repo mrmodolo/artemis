@@ -1,0 +1,5 @@
+*.tgz
+apache-artemis-2.16.0/
+*.gz
+*.tar.gz
+*.pyc

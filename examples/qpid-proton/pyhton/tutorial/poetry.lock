@@ -1,0 +1,20 @@
+[[package]]
+name = "python-qpid-proton"
+version = "0.33.0"
+description = "An AMQP based messaging library."
+category = "main"
+optional = false
+python-versions = "*"
+
+[package.extras]
+opentracing = ["opentracing", "jaeger-client"]
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "cd12b3d3db95b50dbec7d6e484dd29448cbe8e41df4a93809e1c1ac6483ff2b4"
+
+[metadata.files]
+python-qpid-proton = [
+    {file = "python-qpid-proton-0.33.0.zip", hash = "sha256:9535acf706eda58e615705371a2745f1939278be2924d6d61e55a33a44d94fa2"},
+]
